@@ -44,7 +44,7 @@ Access it at: http://127.0.0.1:8000/
 ### Run with Docker
 Build the Docker image
 ```bash
-docker build -t deepfake:latest
+docker build -t deepfake:latest .
 ```
 Run the Docker image
 ```bash
